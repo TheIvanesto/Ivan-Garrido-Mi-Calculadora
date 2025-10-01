@@ -14,7 +14,7 @@ Proyecto de calculadora web con operaciones unitarias, binarias y manejo de list
 [Enlace al repositorio público en GitHub](https://github.com/TheIvanesto/Ivan-Garrido-Mi-Calculadora)
 
 ## Enlace a la calculadora publicada
-[Calculadora en GitHub Pages](https://theivanesto.github.io/)
+[Calculadora en GitHub Pages](https://theivanesto.github.io/Ivan-Garrido-Mi-Calculadora/)
 
 ## Instalación y uso
 1. Clona el repositorio o descarga el ZIP
@@ -22,4 +22,5 @@ Proyecto de calculadora web con operaciones unitarias, binarias y manejo de list
 
 ## Autor
 Ivan Garrido
+
 
