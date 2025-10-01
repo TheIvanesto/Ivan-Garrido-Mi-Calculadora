@@ -11,10 +11,10 @@ Proyecto de calculadora web con operaciones unitarias, binarias y manejo de list
 - Estilización moderna y accesibilidad por teclado
 
 ## Enlace al repositorio
-[Enlace al repositorio público en GitHub](https://github.com/TheIvanesto/Ivan-Garrido-Mi-Calculadora)
+[Enlace al repositorio público en GitHub](https://github.com/ivan-garrido/mi-pequena-calculadora)
 
 ## Enlace a la calculadora publicada
-[Calculadora en GitHub Pages](https://theivanesto.github.io/)
+[Calculadora en GitHub Pages](https://ivan-garrido.github.io/mi-pequena-calculadora/)
 
 ## Instalación y uso
 1. Clona el repositorio o descarga el ZIP

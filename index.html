@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Pequeña Calculadora - Ivan Garrido</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <h1>Mi Pequeña Calculadora</h1>
+        <h2 id="info" class="grande" title="Info sobre el número">Info sobre el número</h2>
+        <div class="calculadora">
+            <input type="text" id="input" placeholder="Introduce número o lista CSV">
+            <div class="botones">
+                <button id="cuadrado">Cuadrado</button>
+                <button id="modulo">Módulo</button>
+                <button id="factorial">Factorial</button>
+                <button id="raiz">Raíz cuadrada</button>
+                <button id="cubo">Cubo</button>
+                <input type="number" id="potencia" placeholder="Potencia">
+                <button id="potenciar">Elevar a potencia</button>
+                <button id="suma">Suma</button>
+                <button id="multiplicacion">Multiplicación</button>
+                <button id="igual">=</button>
+                <button id="sumatorio">Sumatorio CSV</button>
+                <button id="media">Media CSV</button>
+                <button id="ordenar">Ordenar CSV</button>
+                <button id="revertir">Revertir CSV</button>
+                <input type="text" id="quitarElemento" placeholder="Elemento a quitar">
+                <button id="quitar">Quitar elemento CSV</button>
+            </div>
+            <div class="resultados">
+                <input type="text" id="resultado" readonly placeholder="Resultado">
+            </div>
+            <div class="logs">
+                <button id="descargarLogs">Descargar logs de errores</button>
+                <textarea id="logErrores" readonly></textarea>
+            </div>
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
